@@ -1,0 +1,17 @@
+{
+  "name": "projectaataataa",
+  "version": "1.0.0",
+  "main": "ourServer.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ourServer.js",
+    "dev-start": "node ourServer.js"
+  },
+  "author": "Israa",
+  "license": "ISC",
+  "description": ""
+}
